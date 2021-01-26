@@ -1,0 +1,46 @@
+.btn {
+  color: white;
+  padding: 0.5rem 1rem;
+  background-color: black;
+  border: 2px solid white;
+  transition: all ease-in 0.2s;
+  border-radius: 2rem;
+  outline: none;
+  margin: 0.25rem;
+}
+
+.btn.active {
+  color: black;
+  background-color: white;
+  border: 2px solid black;
+}
+
+li {
+  list-style-type: none;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.person-btn {
+  display: flex;
+  padding: 0;
+  color: white;
+  border: 10px solid white;
+  transition: all ease-in 0.2s;
+  outline: none;
+  margin: 0.25rem;
+}
+
+.person-btn.active {
+  color: black;
+  background-color: white;
+  border: 10px solid black;
+}
+
+img {
+  vertical-align: center;
+}
+body {
+  text-align: center;
+}
