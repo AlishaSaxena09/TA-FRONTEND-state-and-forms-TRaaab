@@ -1,0 +1,26 @@
+.buttons {
+  text-align: center;
+}
+.img-div {
+  text-align: center;
+  width: 100%;
+  max-width: 40rem;
+  margin: 3rem auto 0;
+  padding: 1rem;
+}
+
+img {
+  width: 100%;
+}
+
+button {
+  box-shadow: none;
+  background-color: white;
+  border: 2px solid red;
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  color: red;
+  letter-spacing: 0.05rem;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
