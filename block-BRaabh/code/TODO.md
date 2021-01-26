@@ -10,5 +10,5 @@ Take a look at the UI of the App:
 - Show all the images of the people below `Select One Person`
 - User has to select the name of the house and a person
 - If the person belongs to the selected house
-- Show a message `It's a match` otherwise shoe `Sorry Try Again`
+- Show a message `It's a match` otherwise show `Sorry Try Again`
 - There will also be a reset button that will reset the game, so user can play again.
