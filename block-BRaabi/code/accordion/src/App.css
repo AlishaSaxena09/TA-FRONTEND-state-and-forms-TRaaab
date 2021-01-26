@@ -1,0 +1,27 @@
+.ans {
+  display: none;
+}
+.ans.visible {
+  display: block;
+  color: white;
+  border: 2px solid white;
+  background-color: rgb(235, 149, 163);
+  padding: 3rem;
+}
+
+.App {
+  text-align: center;
+  font-size: 2rem;
+  max-width: 900px;
+  margin: 3rem auto;
+}
+
+.wrap {
+  padding: 2rem;
+}
+.ques {
+  color: white;
+  border: 2px solid white;
+  background-color: rgb(119, 160, 38);
+  padding: 2rem;
+}
