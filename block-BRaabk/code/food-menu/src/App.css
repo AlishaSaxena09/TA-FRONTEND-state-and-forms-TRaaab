@@ -1,0 +1,27 @@
+.app {
+  text-align: center;
+}
+h1 {
+  color: gold;
+}
+.btn {
+  margin: 1rem;
+  color: gold;
+  border: 0;
+  font-size: 2rem;
+  background-color: white;
+  text-decoration: none;
+}
+.food-Compo {
+  display: flex;
+  flex-wrap: wrap;
+  width: 40%;
+}
+img {
+  width: 500px;
+}
+.desc {
+  display: flex;
+  flex-wrap: wrap;
+  border-bottom: 2px solid gold;
+}
