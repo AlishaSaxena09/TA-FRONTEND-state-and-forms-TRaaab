@@ -26,6 +26,9 @@ class Modal extends React.Component {
           <div className={this.state.isActive ? "modal-overlay" : "hidden"}>
             <div className="modal-content">
               <h3>Modal Content</h3>
+              <button className="close-modal-btn" onClick={this.handleModal}>
+                Close
+              </button>
             </div>
           </div>
         </div>

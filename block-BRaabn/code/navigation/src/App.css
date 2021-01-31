@@ -41,7 +41,7 @@ h3 {
   display: block;
 }
 .modal-overlay {
-  display: none;
+  /* display: none; */
   position: fixed;
   z-index: 1;
   left: 0;
@@ -61,13 +61,5 @@ h3 {
 }
 
 .close-modal-btn {
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
-  font-size: 2rem;
-  background: transparent;
-  border-color: transparent;
-  color: #bb2525;
-  color: var(--clr-red-dark);
-  cursor: pointer;
+  color: #222;
 }
