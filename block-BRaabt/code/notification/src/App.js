@@ -1,0 +1,13 @@
+import "./App.css";
+import React from "react";
+import NotificationList from "./NotificationList";
+
+function App() {
+  return (
+    <div className="App">
+      <NotificationList />
+    </div>
+  );
+}
+
+export default App;
